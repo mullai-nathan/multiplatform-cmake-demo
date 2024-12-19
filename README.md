@@ -1,0 +1,1 @@
+# multiplatform-cmake-demo
